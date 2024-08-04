@@ -122,9 +122,11 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Love &#10084; <a href=\"https://leaf.aquaplus.jp/product/wa2cc/">WHITE ALBUM2</a>"
-    ]
+  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+  "Love &#10084; <a href=\"https://leaf.aquaplus.jp/product/wa2cc/\">WHITE ALBUM2</a>"
+  ]
+
+
 
   # Colors for favicons
   #
