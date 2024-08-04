@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2024-08-05T00:01:23+09:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
@@ -9,5 +9,6 @@ tags:
 ---
 
 
-#hello world
+#test 
 
+テストだよーん！
