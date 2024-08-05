@@ -1,5 +1,5 @@
 baseURL = 'https://ayuuguu.github.io/'
-languageCode = 'ja'
+languageCode = 'ja-jp'
 title = '実験的小説空間'
 theme = 'hello-friend-ng'
 
