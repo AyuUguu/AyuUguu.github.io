@@ -217,7 +217,7 @@ disableHugoGeneratorInject = false
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
   [[params.social]]
-    name = "x"
+    name = "X"
     url  = "https://x.com/experimental217"
 
 [languages]
