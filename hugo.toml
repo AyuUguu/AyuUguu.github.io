@@ -126,6 +126,13 @@ disableHugoGeneratorInject = false
   "Love &#10084; <a href=\"https://leaf.aquaplus.jp/product/wa2cc/\">WHITE ALBUM2</a>"
   ]
 
+
+  # Colors for favicons
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
   [params.logo]
     logoMark     = ">"
     logoText     = "$ cd /home/"
@@ -233,3 +240,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "novels"
+    name       = "Novels"
+    url        = "novels/"
