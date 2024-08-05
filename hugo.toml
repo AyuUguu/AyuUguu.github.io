@@ -32,6 +32,7 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+hasCJKLanguage = true
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
