@@ -245,7 +245,7 @@ hasCJKLanguage = true
     identifier = "novels"
     name       = "Novels"
     url        = "novels/"
-　[[menu.main]]
+  [[menu.main]]
     identifier = "game"
     name       = "Game"
     url        = "game/"
