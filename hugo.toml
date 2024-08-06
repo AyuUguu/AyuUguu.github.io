@@ -224,13 +224,13 @@ hasCJKLanguage = true
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.en.params]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "experimental novels"
 
   [languages.fr]
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.fr.params]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "experimental novels"
 
 [menu]
   [[menu.main]]
