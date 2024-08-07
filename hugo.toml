@@ -237,15 +237,19 @@ hasCJKLanguage = true
     identifier = "about"
     name       = "About"
     url        = "about/"
+    weight     = 1
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+    weight     = 3
   [[menu.main]]
     identifier = "novels"
     name       = "Novels"
     url        = "novels/"
+    weight     = 2
   [[menu.main]]
     identifier = "game"
     name       = "Game"
     url        = "game/"
+    weight     = 4
