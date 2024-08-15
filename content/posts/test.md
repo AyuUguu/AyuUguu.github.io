@@ -1,7 +1,7 @@
 ---
 title: "麻雀AI mortalの活用術"
 date: 2024-08-14T23:59:25+09:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
