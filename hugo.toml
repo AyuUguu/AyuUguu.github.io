@@ -118,8 +118,8 @@ hasCJKLanguage = true
   [params.footer]
     trademark = 2024
     rss = true
-    copyright = false
-    author = true
+    copyright = true
+    author = false
 
     topText = []
     bottomText = [
