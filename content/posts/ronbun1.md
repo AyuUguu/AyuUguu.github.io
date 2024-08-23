@@ -1,7 +1,7 @@
 ---
 title: "宣言牌をどっちにするか問題"
 date: 2024-08-17T06:53:56+09:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
