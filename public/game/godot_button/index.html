@@ -155,24 +155,24 @@
 <p><a href="https://docs.godotengine.org/en/4.3/classes/class_button.html">公式ドキュメント</a>はここ。</p>
 <h2 id="作成と簡易的な設定例">作成と簡易的な設定例</h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-gdscript" data-lang="gdscript"><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> button <span style="color:#f92672">=</span> <span style="color:#a6e22e">Button</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
-</span></span><span style="display:flex;"><span>    button<span style="color:#f92672">.</span>text <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Click me&#34;</span>
-</span></span><span style="display:flex;"><span>    button<span style="color:#f92672">.</span>icon <span style="color:#f92672">=</span> load(<span style="color:#e6db74">&#34;res://image.png&#34;</span>)
-</span></span><span style="display:flex;"><span>    button<span style="color:#f92672">.</span>name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;button_1&#34;</span>
-</span></span><span style="display:flex;"><span>    button<span style="color:#f92672">.</span>icon_alignment <span style="color:#f92672">=</span> HORIZONTAL_ALIGNMENT_CENTER
-</span></span><span style="display:flex;"><span>    button<span style="color:#f92672">.</span>position <span style="color:#f92672">=</span> <span style="color:#a6e22e">Vector2</span>(<span style="color:#ae81ff">100</span>, <span style="color:#ae81ff">500</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">var</span> button <span style="color:#f92672">=</span> <span style="color:#a6e22e">Button</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
+</span></span><span style="display:flex;"><span>  button<span style="color:#f92672">.</span>text <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Click me&#34;</span>
+</span></span><span style="display:flex;"><span>  button<span style="color:#f92672">.</span>icon <span style="color:#f92672">=</span> load(<span style="color:#e6db74">&#34;res://image.png&#34;</span>)
+</span></span><span style="display:flex;"><span>  button<span style="color:#f92672">.</span>name <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;button_1&#34;</span>
+</span></span><span style="display:flex;"><span>  button<span style="color:#f92672">.</span>icon_alignment <span style="color:#f92672">=</span> HORIZONTAL_ALIGNMENT_CENTER
+</span></span><span style="display:flex;"><span>  button<span style="color:#f92672">.</span>position <span style="color:#f92672">=</span> <span style="color:#a6e22e">Vector2</span>(<span style="color:#ae81ff">100</span>, <span style="color:#ae81ff">500</span>)
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e">#通常・カーソル・押した状態別のスタイル</span>
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> normal_style <span style="color:#f92672">=</span> <span style="color:#a6e22e">StyleBoxFlat</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> hover_style <span style="color:#f92672">=</span> <span style="color:#a6e22e">StyleBoxFlat</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">var</span> pressed_style <span style="color:#f92672">=</span> <span style="color:#a6e22e">StyleBoxFlat</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
-</span></span><span style="display:flex;"><span>    button<span style="color:#f92672">.</span><span style="color:#a6e22e">add_theme_stylebox_override</span>(<span style="color:#e6db74">&#34;normal&#34;</span>, normal_style)
-</span></span><span style="display:flex;"><span>	button<span style="color:#f92672">.</span><span style="color:#a6e22e">add_theme_stylebox_override</span>(<span style="color:#e6db74">&#34;hover&#34;</span>, hover_style)
-</span></span><span style="display:flex;"><span>	button<span style="color:#f92672">.</span><span style="color:#a6e22e">add_theme_stylebox_override</span>(<span style="color:#e6db74">&#34;pressed&#34;</span>, pressed_style)
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">#通常・カーソル・押した状態別のスタイル</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">var</span> normal_style <span style="color:#f92672">=</span> <span style="color:#a6e22e">StyleBoxFlat</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
+</span></span><span style="display:flex;"><span>　<span style="color:#66d9ef">var</span> hover_style <span style="color:#f92672">=</span> <span style="color:#a6e22e">StyleBoxFlat</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
+</span></span><span style="display:flex;"><span>　<span style="color:#66d9ef">var</span> pressed_style <span style="color:#f92672">=</span> <span style="color:#a6e22e">StyleBoxFlat</span><span style="color:#f92672">.</span><span style="color:#a6e22e">new</span>()
+</span></span><span style="display:flex;"><span>　button<span style="color:#f92672">.</span><span style="color:#a6e22e">add_theme_stylebox_override</span>(<span style="color:#e6db74">&#34;normal&#34;</span>, normal_style)
+</span></span><span style="display:flex;"><span>　button<span style="color:#f92672">.</span><span style="color:#a6e22e">add_theme_stylebox_override</span>(<span style="color:#e6db74">&#34;hover&#34;</span>, hover_style)
+</span></span><span style="display:flex;"><span>　button<span style="color:#f92672">.</span><span style="color:#a6e22e">add_theme_stylebox_override</span>(<span style="color:#e6db74">&#34;pressed&#34;</span>, pressed_style)
 </span></span><span style="display:flex;"><span>    
-</span></span><span style="display:flex;"><span>    <span style="color:#75715e">#シグナルの接続</span>
-</span></span><span style="display:flex;"><span>    button<span style="color:#f92672">.</span>pressed<span style="color:#f92672">.</span><span style="color:#a6e22e">connect</span>(self<span style="color:#f92672">.</span>_button_pressed)
-</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">add_child</span>(button)
+</span></span><span style="display:flex;"><span><span style="color:#75715e">#シグナルの接続</span>
+</span></span><span style="display:flex;"><span>　button<span style="color:#f92672">.</span>pressed<span style="color:#f92672">.</span><span style="color:#a6e22e">connect</span>(self<span style="color:#f92672">.</span>_button_pressed)
+</span></span><span style="display:flex;"><span>　<span style="color:#a6e22e">add_child</span>(button)
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">_button_pressed</span>():
 </span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;Hello world!&#34;</span>)
