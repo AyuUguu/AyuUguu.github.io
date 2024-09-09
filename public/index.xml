@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>実験的小説空間</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ayuuguu.github.io/</link>
     <description>Recent content on 実験的小説空間</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 10 Sep 2024 03:35:46 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ayuuguu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GodotのButtonに関して</title>
-      <link>http://localhost:1313/game/godot_button/</link>
+      <link>https://ayuuguu.github.io/game/godot_button/</link>
       <pubDate>Tue, 10 Sep 2024 03:35:46 +0900</pubDate>
-      <guid>http://localhost:1313/game/godot_button/</guid>
+      <guid>https://ayuuguu.github.io/game/godot_button/</guid>
       <description>ボタンに関する資料 公式ドキュメントはここ。 作成と簡易的な設定例 var button = Button.new() button.text = &amp;#34;Click me&amp;#34; button.icon = load(&amp;#34;res://image.png&amp;#34;) button.name = &amp;#34;button_1&amp;#34; button.icon_alignment = HORIZONTAL_ALIGNMENT_CENTER button.position = Vector2(100, 500) #通常・カーソル・押した状態別のスタ</description>
     </item>
     <item>
       <title>宣言牌をどっちにするか問題</title>
-      <link>http://localhost:1313/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</link>
+      <link>https://ayuuguu.github.io/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</link>
       <pubDate>Sat, 17 Aug 2024 06:53:56 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</guid>
+      <guid>https://ayuuguu.github.io/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</guid>
       <description>よくこういうミスをしてしまう 6p引きで58pテンパイなのだが、3m6mどちらを切ってリーチしてもいい。状況としては一段目リーチでこの瞬間の危</description>
     </item>
     <item>
       <title>麻雀もAIと対話するゲームになっている</title>
-      <link>http://localhost:1313/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</link>
+      <link>https://ayuuguu.github.io/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</link>
       <pubDate>Wed, 14 Aug 2024 23:59:25 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</guid>
+      <guid>https://ayuuguu.github.io/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</guid>
       <description>はじめに まず麻雀についての学習方法は一昔前まで、とにかく鬼打ちする、書籍を買って読むだとか、強い人に聞く、鳳凰卓上位陣の観戦・牌譜検討、プロ</description>
     </item>
     <item>
       <title>Game_test</title>
-      <link>http://localhost:1313/game/game_test/</link>
+      <link>https://ayuuguu.github.io/game/game_test/</link>
       <pubDate>Tue, 06 Aug 2024 23:30:24 +0900</pubDate>
-      <guid>http://localhost:1313/game/game_test/</guid>
+      <guid>https://ayuuguu.github.io/game/game_test/</guid>
       <description>げーむてすと あなるとは言わせないぞ！</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/2024/08/hello-world/</link>
+      <link>https://ayuuguu.github.io/posts/2024/08/hello-world/</link>
       <pubDate>Mon, 05 Aug 2024 00:01:23 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024/08/hello-world/</guid>
+      <guid>https://ayuuguu.github.io/posts/2024/08/hello-world/</guid>
       <description>test テストだよーん！</description>
     </item>
     <item>
       <title>私はだあれ？</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://ayuuguu.github.io/about/</link>
       <pubDate>Mon, 05 Aug 2024 00:01:23 +0900</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://ayuuguu.github.io/about/</guid>
       <description>ここはどこぉ？ 虚体。 私は冬馬かずさである 無職の小木曽雪菜。それ以上でもそれ以下でもない。</description>
     </item>
   </channel>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on 実験的小説空間</title>
-    <link>http://localhost:1313/game/</link>
+    <link>https://ayuuguu.github.io/game/</link>
     <description>Recent content in Games on 実験的小説空間</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 10 Sep 2024 03:35:46 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ayuuguu.github.io/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GodotのButtonに関して</title>
-      <link>http://localhost:1313/game/godot_button/</link>
+      <link>https://ayuuguu.github.io/game/godot_button/</link>
       <pubDate>Tue, 10 Sep 2024 03:35:46 +0900</pubDate>
-      <guid>http://localhost:1313/game/godot_button/</guid>
+      <guid>https://ayuuguu.github.io/game/godot_button/</guid>
       <description>ボタンに関する資料 公式ドキュメントはここ。 作成と簡易的な設定例 var button = Button.new() button.text = &amp;#34;Click me&amp;#34; button.icon = load(&amp;#34;res://image.png&amp;#34;) button.name = &amp;#34;button_1&amp;#34; button.icon_alignment = HORIZONTAL_ALIGNMENT_CENTER button.position = Vector2(100, 500) #通常・カーソル・押した状態別のスタ</description>
     </item>
     <item>
       <title>Game_test</title>
-      <link>http://localhost:1313/game/game_test/</link>
+      <link>https://ayuuguu.github.io/game/game_test/</link>
       <pubDate>Tue, 06 Aug 2024 23:30:24 +0900</pubDate>
-      <guid>http://localhost:1313/game/game_test/</guid>
+      <guid>https://ayuuguu.github.io/game/game_test/</guid>
       <description>げーむてすと あなるとは言わせないぞ！</description>
     </item>
   </channel>

@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 実験的小説空間</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://ayuuguu.github.io/posts/</link>
         <description>Recent content in Posts on 実験的小説空間</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sat, 17 Aug 2024 06:53:56 +0900</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ayuuguu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>宣言牌をどっちにするか問題</title>
-            <link>http://localhost:1313/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</link>
+            <link>https://ayuuguu.github.io/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</link>
             <pubDate>Sat, 17 Aug 2024 06:53:56 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</guid>
+            <guid>https://ayuuguu.github.io/posts/2024/08/%E5%AE%A3%E8%A8%80%E7%89%8C%E3%82%92%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AB%E3%81%99%E3%82%8B%E3%81%8B%E5%95%8F%E9%A1%8C/</guid>
             <description>よくこういうミスをしてしまう 6p引きで58pテンパイなのだが、3m6mどちらを切ってリーチしてもいい。状況としては一段目リーチでこの瞬間の危</description>
             <content type="html"><![CDATA[<h2 id="よくこういうミスをしてしまう">よくこういうミスをしてしまう</h2>
 <p><img alt="tama" src="/images/tama1.png"></p>
@@ -33,10 +33,10 @@
         
         <item>
             <title>麻雀もAIと対話するゲームになっている</title>
-            <link>http://localhost:1313/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</link>
+            <link>https://ayuuguu.github.io/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</link>
             <pubDate>Wed, 14 Aug 2024 23:59:25 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</guid>
+            <guid>https://ayuuguu.github.io/posts/2024/08/%E9%BA%BB%E9%9B%80%E3%82%82ai%E3%81%A8%E5%AF%BE%E8%A9%B1%E3%81%99%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B/</guid>
             <description>はじめに まず麻雀についての学習方法は一昔前まで、とにかく鬼打ちする、書籍を買って読むだとか、強い人に聞く、鳳凰卓上位陣の観戦・牌譜検討、プロ</description>
             <content type="html"><![CDATA[<h2 id="はじめに">はじめに</h2>
 <p>まず麻雀についての学習方法は一昔前まで、とにかく鬼打ちする、書籍を買って読むだとか、強い人に聞く、鳳凰卓上位陣の観戦・牌譜検討、プロの対局を見るだとかその程度しかなかったわけだが、昨今はAI検討が主流となっている。</p>
@@ -83,10 +83,10 @@ ratingを適切に理解し使いこなすことは難しいから、なんと�
         
         <item>
             <title>Hello World</title>
-            <link>http://localhost:1313/posts/2024/08/hello-world/</link>
+            <link>https://ayuuguu.github.io/posts/2024/08/hello-world/</link>
             <pubDate>Mon, 05 Aug 2024 00:01:23 +0900</pubDate>
             
-            <guid>http://localhost:1313/posts/2024/08/hello-world/</guid>
+            <guid>https://ayuuguu.github.io/posts/2024/08/hello-world/</guid>
             <description>test テストだよーん！</description>
             <content type="html"><![CDATA[<h1 id="test">test</h1>
 <p>テストだよーん！</p>
