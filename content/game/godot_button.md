@@ -1,5 +1,5 @@
 ---
-title: GodotのButtonに関して
+title: 【Godot4.x】Buttonについて
 date: 2024-09-10T03:35:46+09:00
 draft: false
 toc: false
@@ -28,11 +28,11 @@ tag:
 
   #通常・カーソル・押した状態別のスタイル
   var normal_style = StyleBoxFlat.new()
-　var hover_style = StyleBoxFlat.new()
-　var pressed_style = StyleBoxFlat.new()
-　button.add_theme_stylebox_override("normal", normal_style)
-　button.add_theme_stylebox_override("hover", hover_style)
-　button.add_theme_stylebox_override("pressed", pressed_style)
+  var hover_style = StyleBoxFlat.new()
+  var pressed_style = StyleBoxFlat.new()
+  button.add_theme_stylebox_override("normal", normal_style)
+  button.add_theme_stylebox_override("hover", hover_style)
+  button.add_theme_stylebox_override("pressed", pressed_style)
     
 　#シグナルの接続
 　button.pressed.connect(self._button_pressed)
